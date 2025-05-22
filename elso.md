@@ -1,2 +1,3 @@
 valami
 #bármi
+.
