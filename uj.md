@@ -1,4 +1,1 @@
-#fagyi
-#ketto
-
-valami
+ló
